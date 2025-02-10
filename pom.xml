@@ -18,11 +18,11 @@
         <module>ndyaya-module-member</module>
         <module>ndyaya-module-bpm</module>
         <module>ndyaya-module-report</module>
-<!--        <module>ndyaya-module-mp</module>-->
-<!--        <module>ndyaya-module-pay</module>-->
+        <module>ndyaya-module-mp</module>
+        <module>ndyaya-module-pay</module>
 <!--        <module>ndyaya-module-mall</module>-->
-<!--        <module>ndyaya-module-crm</module>-->
-<!--        <module>ndyaya-module-erp</module>-->
+        <module>ndyaya-module-crm</module>
+        <module>ndyaya-module-erp</module>
 <!--        <module>ndyaya-module-ai</module>-->
 <!--        <module>ndyaya-module-iot</module>-->
         <module>ndyaya-module-emb</module>
