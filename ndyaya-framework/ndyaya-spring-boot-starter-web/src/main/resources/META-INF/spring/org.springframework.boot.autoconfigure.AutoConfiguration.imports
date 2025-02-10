@@ -1,0 +1,6 @@
+com.ndyaya.framework.apilog.config.NdyayaApiLogAutoConfiguration
+com.ndyaya.framework.jackson.config.NdyayaJacksonAutoConfiguration
+com.ndyaya.framework.swagger.config.NdyayaSwaggerAutoConfiguration
+com.ndyaya.framework.web.config.NdyayaWebAutoConfiguration
+com.ndyaya.framework.xss.config.NdyayaXssAutoConfiguration
+com.ndyaya.framework.banner.config.NdyayaBannerAutoConfiguration

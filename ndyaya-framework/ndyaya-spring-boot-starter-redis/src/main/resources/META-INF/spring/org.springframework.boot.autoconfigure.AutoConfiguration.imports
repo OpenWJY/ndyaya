@@ -1,0 +1,2 @@
+com.ndyaya.framework.redis.config.NdyayaRedisAutoConfiguration
+com.ndyaya.framework.redis.config.NdyayaCacheAutoConfiguration

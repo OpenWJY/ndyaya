@@ -1,0 +1,3 @@
+com.ndyaya.framework.datasource.config.NdyayaDataSourceAutoConfiguration
+com.ndyaya.framework.mybatis.config.NdyayaMybatisAutoConfiguration
+com.ndyaya.framework.translate.config.NdyayaTranslateAutoConfiguration

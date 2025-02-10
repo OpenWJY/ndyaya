@@ -1,0 +1,1 @@
+package com.ndyaya.module.crm.framework.permission.core;

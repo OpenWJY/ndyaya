@@ -1,0 +1,2 @@
+com.ndyaya.framework.tracer.config.NdyayaTracerAutoConfiguration
+com.ndyaya.framework.tracer.config.NdyayaMetricsAutoConfiguration

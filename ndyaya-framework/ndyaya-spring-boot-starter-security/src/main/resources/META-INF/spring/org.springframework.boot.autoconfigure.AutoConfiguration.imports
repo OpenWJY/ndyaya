@@ -1,0 +1,3 @@
+com.ndyaya.framework.security.config.NdyayaSecurityAutoConfiguration
+com.ndyaya.framework.security.config.NdyayaWebSecurityConfigurerAdapter
+com.ndyaya.framework.operatelog.config.NdyayaOperateLogConfiguration

@@ -1,0 +1,3 @@
+com.ndyaya.framework.mq.redis.config.NdyayaRedisMQProducerAutoConfiguration
+com.ndyaya.framework.mq.redis.config.NdyayaRedisMQConsumerAutoConfiguration
+com.ndyaya.framework.mq.rabbitmq.config.NdyayaRabbitMQAutoConfiguration
